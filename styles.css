@@ -11,7 +11,7 @@ h1 {text-align: center;}
 img {border: 5px inset rgb(36, 20, 126); position:relative; top:5%; white-space: nowrap;}
 body {background-color: black;}
 
-li:hover {color: red;}
+li:hover {color: rgb(218, 87, 12);}
 
 .container {
     display: flex;
