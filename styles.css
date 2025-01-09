@@ -7,7 +7,7 @@ div {
 
 .h1 {color:white; font-size: 50px; position:absolute; Left: 50%; top: 0%; }
 
-img {border: 5px solid grey; position:relative; top: 50%; white-space: nowrap;}
+img {border: 5px solid grey; position:relative; white-space: nowrap;}
 body {background-color: black;}
 
 li:hover {color: red;}
