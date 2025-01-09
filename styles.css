@@ -7,8 +7,7 @@ div {
 
 .h1 {color:white; font-size: 50px; }
 h1 {text-align: center;}
-
-img {border: 5px inset rgb(36, 20, 126); position:relative; top:5%; white-space: nowrap;}
+img {border: 5px inset rgb(36, 20, 126)}
 body {background-color: black;}
 
 li:hover {color: rgb(218, 87, 12);}
@@ -16,5 +15,5 @@ li:hover {color: rgb(218, 87, 12);}
 .container {
     display: flex;
     flex-direction:row;
-
-}
+    color:white;
+    background-color: black;}

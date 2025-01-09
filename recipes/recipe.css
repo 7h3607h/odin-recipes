@@ -1,0 +1,11 @@
+/* styles.css */
+
+div {
+    color: white;
+    background-color: black;
+}
+
+.h1 {color:white; font-size: 50px; }
+h1 {text-align: center;}
+img {border: 5px inset rgb(36, 20, 126); position:relative; top:5%; white-space: nowrap;}
+body {background-color: black;}
