@@ -7,7 +7,7 @@ div {
 
 .h1 {color:white; font-size: 50px; }
 h1 {text-align: center;}
-img {border: 5px inset rgb(36, 20, 126)}
+img {border: 5px inset rgb(93, 75, 197); margin:2px}
 body {background-color: black;}
 
 li:hover {color: rgb(218, 87, 12);}
