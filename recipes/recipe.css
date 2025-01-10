@@ -9,3 +9,5 @@ div {
 h1 {text-align: center;}
 img {border: 5px inset rgb(36, 20, 126); position:relative; top:5%; white-space: nowrap;}
 body {background-color: black;}
+li {font-size: 25px;}
+
