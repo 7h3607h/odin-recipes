@@ -5,15 +5,33 @@ div {
     background-color: black;
 }
 
-.h1 {color:white; font-size: 50px; }
-h1 {text-align: center;}
-img {border: 5px inset rgb(93, 75, 197); margin:2px}
+h1 {color:white; font-size: 75px; text-align: center; }
+
+
 body {background-color: black;}
 
 li:hover {color: rgb(218, 87, 12);}
 
+
+img {border: 5px inset rgb(93, 75, 197); margin:2px}
 .container {
     display: flex;
     flex-direction:row;
+    flex-wrap: nowrap;
+    flex:auto;
+    max-height: 300px;
+    }
+    
+.container div {
     color:white;
-    background-color: black;}
+    background-color: black;
+    
+    flex:initial;
+}    
+    
+    
+    .item {border: 5px inset rgb(93, 75, 197);
+        min-width: 200px;
+        min-height: 200px;
+         margin:2px;
+         } 
