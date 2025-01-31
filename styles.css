@@ -3,35 +3,46 @@
 div {
     color: white;
     background-color: black;
+    outline: yellow;
+    margin: 2px;
 }
 
-h1 {color:white; font-size: 75px; text-align: center; }
 
+h1 {color:white; font-size: 75px; text-align: center; outline: yellow; }
+h3 {color:white;}
+p {color:white;}
+
+img { margin:2px} 
 
 body {background-color: black;}
 
 li:hover {color: rgb(218, 87, 12);}
 
 
-img {border: 5px inset rgb(93, 75, 197); margin:2px}
+
 .container {
     display: flex;
     flex-direction:row;
     flex-wrap: nowrap;
     flex:auto;
-    max-height: 300px;
+    max-height: 400px;
+    align-items: flex-start;
+    
     }
     
+     
 .container div {
     color:white;
     background-color: black;
     
     flex:initial;
+    
 }    
     
     
-    .item {border: 5px inset rgb(93, 75, 197);
+    .item {
         min-width: 200px;
         min-height: 200px;
-         margin:2px;
+        margin:2px;
+        outline: yellow;
          } 
