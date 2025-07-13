@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../css-exercises/foundations/intro-to-css/01-css-methods"
 		}
 	]
 }
